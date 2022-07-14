@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://github.com/natalliaamorim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalliaamorim&show_icons=true&theme=ironman&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalliaamorim&show_icons=false&theme=ironman&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalliaamorim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
