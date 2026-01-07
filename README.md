@@ -3,6 +3,7 @@
  
 
 - Estou em transição de carreira para área de Analise e Desenvolvimento de Sistemas
+- Estudante de Analise e Desenvolvimento de Sistemas pela Unifatecie
 - 🌱 Formação Academica em Tecnologo em Recursos Humanos -  FEV-2013/NOV-2014
 - 🌱 Cursos extras curriculares: Desenvolvimento Web Full Stack pela Escola Labenu - Formação em 2022
 - 🌱 Cursos extras curriculares: Conhecimentos basicos em HTML e CSS pela Escola Programaria - Formação em 2020
