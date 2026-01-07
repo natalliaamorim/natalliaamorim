@@ -1,8 +1,12 @@
  Hi there  ! Eu Sou Natalia Amorim
 
+ 
 
-- 🌱 I’m currently learning  Full Stack Web development at Labenu
+- Estou em transição de carreira para área de Analise e Desenvolvimento de Sistemas
+- 🌱Cursos extras curriculares: Desenvolvimento Web Full Stack pela Escola Labenu = Formação em 2022
+- 🌱 Cursos extras curriculares: Conhecimentos basicos em HTML e CSS pela Escola Programaria
 - 😄 Pronouns:She/Dela
+- 
 
 <div>
   <a href="https://github.com/natalliaamorim">
