@@ -6,7 +6,7 @@
 - 🌱Cursos extras curriculares: Desenvolvimento Web Full Stack pela Escola Labenu = Formação em 2022
 - 🌱 Cursos extras curriculares: Conhecimentos basicos em HTML e CSS pela Escola Programaria
 - 😄 Pronouns:She/Dela
-- 
+  
 
 <div>
   <a href="https://github.com/natalliaamorim">
