@@ -3,8 +3,9 @@
  
 
 - Estou em transição de carreira para área de Analise e Desenvolvimento de Sistemas
-- 🌱Cursos extras curriculares: Desenvolvimento Web Full Stack pela Escola Labenu = Formação em 2022
-- 🌱 Cursos extras curriculares: Conhecimentos basicos em HTML e CSS pela Escola Programaria
+- 🌱 Formação Academica em Tecnologo em Recursos Humanos
+- 🌱Cursos extras curriculares: Desenvolvimento Web Full Stack pela Escola Labenu - Formação em 2022
+- 🌱 Cursos extras curriculares: Conhecimentos basicos em HTML e CSS pela Escola Programaria - Formação em 2020
 - 😄 Pronouns:She/Dela
   
 
