@@ -2,7 +2,7 @@
 
  Embu das Artes – SP
  (11) 96967-4514
- natallia.nascimento1@gmail.com
+ e-mail: natallia.nascimento1@gmail.com
  LinkedIn: linkedin.com/in/natalia-amorim-pereira-do-nascimento
 
 OBJETIVO PROFISSIONAL
