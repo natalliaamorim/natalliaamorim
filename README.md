@@ -44,6 +44,7 @@ Uso de sistemas, planilhas e relatórios com alto nível de precisão
 FORMAÇÃO ACADÊMICA
 Análise e Desenvolvimento de Sistemas – Cursando
 Unifatecie | Jan/2026 – Jun/2028
+
 Recursos Humanos – Concluído
 Anhanguera | Fev/2013 – Dez/2014
 
